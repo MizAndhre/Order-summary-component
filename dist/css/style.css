@@ -146,7 +146,7 @@ main {
   }
 }
 
-.order-content-plan-text > h3 {
+.order-content-plan-text > h2 {
   padding-bottom: 0.5rem;
   color: #1f2f56;
   font-size: 1.5rem;
@@ -154,7 +154,7 @@ main {
 }
 
 @media (min-width: 64em) {
-  .order-content-plan-text > h3 {
+  .order-content-plan-text > h2 {
     font-size: 1.7rem;
     padding-bottom: 0.5rem;
   }
