@@ -23,7 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/tago345.png)
+![](https://i.imgur.com/E48pDjK.png)
+
 
 ### Links
 
