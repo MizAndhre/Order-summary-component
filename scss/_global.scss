@@ -198,19 +198,27 @@ main {
   }
 }
 
-.attribution{
+.attribution {
   text-align: center;
-  font-size: 1.4rem;
-  background-color: $paleBlue;
+  font-size: 1.5rem;
   padding-bottom: 2rem;
+  background-color: $paleBlue;
   font-weight: 500;
 
-  a{
-    text-decoration: none;
-    color: $darkBlue;
 
-    &:hover{
+  a {
+    color: $darkBlue;
+    text-decoration: none;
+    transition: color 200ms ease-in-out;
+
+    &:hover {
       color: $brightBlue;
+    }
+
+    i {
+      margin-top: 1rem;
+      font-size: 2.5rem;
+      padding-right: 0.5rem;
     }
   }
 }
